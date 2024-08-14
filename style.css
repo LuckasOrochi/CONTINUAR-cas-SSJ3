@@ -9,8 +9,8 @@
         color: hotpink;
         display: flex;
         justify-content: space-around;
-        align-items: center;
-        padding: 25px;
+        padding: 5px;
+        font-size: small;
         
     
     }
@@ -19,3 +19,7 @@
      display: flex;
 
     }
+    .cabecalho-imagem{
+        width: 10%;
+    }
+    
